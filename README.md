@@ -69,3 +69,4 @@ composer install
 ./vendor/bin/phpunit
 ./vendor/bin/phpcs -p
 ```
+
